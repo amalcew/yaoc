@@ -21,6 +21,8 @@ In the root of this repository `Master Checklist` is located, which contains mos
 # References and must-read documents
 - [OSCP+ Exam Guide](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)
 - [OSCP+ Exam FAQ](https://help.offsec.com/hc/en-us/articles/4412170923924-OSCP-Exam-FAQ)
+- [OffSec OSCP+ Exam with AD Preparation](https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD-Preparation)
 - [OffSec Proctoring Knowledgebase](https://help.offsec.com/hc/en-us/sections/360008126631-Proctored-Exams)
-- [OSCP Methodology](https://hackwithmike.gitbook.io/oscp/methodology/oscp-methodology)
-- [OSCP Last Minute Tips](https://hackwithmike.gitbook.io/oscp/methodology/oscp-last-minute-tips)
+- Pro-tips:
+	- [OSCP Methodology](https://hackwithmike.gitbook.io/oscp/methodology/oscp-methodology)
+	- [OSCP Last Minute Tips](https://hackwithmike.gitbook.io/oscp/methodology/oscp-last-minute-tips)

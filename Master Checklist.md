@@ -2,7 +2,6 @@
 -  **Read through OffSec guidelines!** 
 	- [ ] [OSCP+ Exam Guide](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)
 	- [ ] [OffSec Proctoring Knowledgebase](https://help.offsec.com/hc/en-us/sections/360008126631-Proctored-Exams)
-	- [ ] [OffSec OSCP+ Exam with AD Preparation](https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD-Preparation)
 - Test Host connection ([Proctoring Tool Manual](https://help.offsec.com/hc/en-us/articles/360050299352-Proctoring-Tool-Manual))
 	- [ ] Request test connection credentials (https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD-Preparation/#h_01FX57XY0A4N1624HACRNYXXDF
 	- [ ] Test connection

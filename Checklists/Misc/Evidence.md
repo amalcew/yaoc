@@ -1,0 +1,1 @@
+**Note**: Place the evidence screenshots inside `screenshots/` folder for clean note organization.

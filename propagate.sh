@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
 mkdir -p \
-"working" \
 "Targets/Active Directory/Host no.1" \
 "Targets/Active Directory/Host no.2" \
 "Targets/Active Directory/Host no.3" \

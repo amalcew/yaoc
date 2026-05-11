@@ -7,6 +7,8 @@
 	- [ ] Request test connection credentials (https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD-Preparation/#h_01FX57XY0A4N1624HACRNYXXDF
 	- [ ] Test connection
 - [ ] Prepare dedicated Kali VM for the exam
+- [ ] Soft-block all popular AI chatbots inside `/etc/hosts` for both host and Kali VM
+- [ ] Prepare tools and scripts inside shared folder between host and VM
 
 # Exam
 - [ ] Standalone no.1

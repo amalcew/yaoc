@@ -9,8 +9,14 @@ A complete exam checklist framework designed for Obsidian.
 **Note:** This checklist was created for OffSec PEN-200 (PWK) exam for OSCP certification in **May 2026**. Due to regular changes to the syllabus, exam and proctoring requirements, it may be outdated by the time you are reading this notebook. **Remember to check most up-to-date requirements and guidelines**!
 
 # How to navigate through this checklist?
-This repository contains `Checklists` and `Targets` directories. For each target, copy the `.md` files of tour choosing to the target directory of machine you are pwning. 
-In the root of this repository `Master Checklist` is located, containing most crucial pre-, during-, and post-exam checks. Treat this checklist as top priority.
+For each target machine create a separate directory, copy the `.md` files of your choosing to the target directory of machine you are pwning. 
+
+In case you are running Linux, feel free to use the helper scripts:
+- `propagate.sh` - creates targets' directories and copies all checklists to the respective targets,
+- `init-working-dir.sh` - creates working dirs for all the dirty work,
+- `clean.sh` - purges the `Targets` and `working` directories for clean init.
+
+In the root of this repository `Master Checklist` is located, which contains most crucial pre-, during-, and post-exam checks. Treat this checklist as top priority.
 
 # References and must-read documents
 - [OSCP+ Exam Guide](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)

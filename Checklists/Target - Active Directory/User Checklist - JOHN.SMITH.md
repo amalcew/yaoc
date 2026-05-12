@@ -1,0 +1,28 @@
+**Note**: Copy this note, change name and go through for each compromised user
+#### Checklist
+- **New password found?**
+	- [ ] Add to `passwords.list`
+	- [ ] Spray for domain users
+	- [ ] Spray for local users (`netexec ... --local-auth`)
+- **New username found?**
+	- [ ] Add to `users.list`
+- **Both username and password found?**
+	- Try remote access on all targets:
+		- [ ] `evil-winrm`
+		- [ ] `impacket-psexec`
+		- [ ] `impacket-wmiexec`
+		- [ ] `rdesktop`/`xfreerdp3`
+	- [ ] Enumerate `smb/ftp`
+	- [ ] Enumerate `enum4linux-ng`
+	- [ ] Enumerate `ldap`
+	- [ ] Enumerate `mssql`
+	- Internal enumeration:
+		- [ ] `whoami /priv`
+		- [ ] `whoami /groups`
+		- [ ] `winPEAS.exe`
+		- [ ] Credentials hunting
+	- **If Admin**:
+		- [ ] Dump creds with mimikatz (e.g. `.\mimikatz.exe "privilege::debug" "sekurlsa::logonpasswords" exit`)
+		- [ ] Dump `SAM`
+		- [ ] Dump `Ntds.dit`
+		- [ ] Credentials hunting

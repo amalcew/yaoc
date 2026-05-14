@@ -1,4 +1,4 @@
 
-| Username | Email | Role | Password | OS Password | Hash |
-| -------- | ----- | ---- | -------- | ----------- | ---- |
-|          |       |      |          |             |      |
+| Username | Password | Domain Password | Hash |
+| -------- | -------- | --------------- | ---- |
+|          |          |                 |      |

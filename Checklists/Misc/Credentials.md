@@ -1,4 +1,4 @@
 
-| Username | Password | Domain Password | Hash |
-| -------- | -------- | --------------- | ---- |
-|          |          |                 |      |
+| Username | Type | Password | Domain Password | Hash |
+| -------- | ---- | -------- | --------------- | ---- |
+|          |      |          |                 |      |

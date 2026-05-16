@@ -20,6 +20,7 @@
 		- [ ] `whoami /priv`
 		- [ ] `whoami /groups`
 		- [ ] `winPEAS.exe`
+		- [ ] Home directory
 		- [ ] Credentials hunting
 	- **If Admin**:
 		- [ ] Dump creds with mimikatz (e.g. `.\mimikatz.exe "privilege::debug" "sekurlsa::logonpasswords" exit`)
